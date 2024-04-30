@@ -2,7 +2,7 @@
 
 Find the complete code, dataset and Reference by <b><a href="https://drive.google.com/drive/folders/1I31SxLuFwDE_GV-ozzMdP4Hd6Tk786ub?usp=sharing">CLICKING HERE</a></b>
 
-<img src="https://github.com/iamrudra-narayan/SelfDrivingCar/assets/84215414/6fd8f884-bc77-460c-b45d-291471015e6b">
+<img src="https://github.com/iamrudra-narayan/SelfDrivingCar/blob/master/car.jpg">
 <br>
 <h2><b>INTRODUCTION</b></h2>
 <br>
